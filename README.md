@@ -8,4 +8,3 @@
 4.Suggest some health tips for common diseases like cold
 
 5.Books appointment with qr code and patient Id in png format by taking Name,Age,Phone number and Gender
-https://shanmugaraja-18.github.io/Atlas/
