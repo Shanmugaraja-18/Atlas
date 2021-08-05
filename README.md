@@ -1,4 +1,4 @@
-# Atlas is basically a healthcare voice assistant box which can able to predict the disease based on the symptoms and also shows 
+# Shanmugaraja-18.Atlas is basically a healthcare voice assistant box which can able to predict the disease based on the symptoms and also shows 
 1.Causative agent
 
 2.Mode of Transmission
